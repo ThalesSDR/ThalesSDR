@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia de Software e atualmente trabalho como **Estagiário de TI na Itaipu Binacional**, atuando na divisão de Microinformática N3 (SITM.AA).
+Sou estudante de Engenharia de Software e atualmente trabalho como **Estagiário de TI na Itaipu Binacional**, atuando na divisão de Microinformática no Suporte N3 (SITM.AA).
 
 No ambiente corporativo, tenho contato com suporte técnico especializado, administração de software, gerenciamento de políticas de grupo (GPO), ambientes virtualizados com VMware, homologação de aplicações e documentação técnica.
 
