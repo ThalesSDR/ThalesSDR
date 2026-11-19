@@ -40,7 +40,7 @@ Paralelamente, desenvolvo minhas habilidades em programação e desenvolvimento 
 ### Infraestrutura e suporte de TI
 
 - Windows e Gerenciamento de Políticas de Grupo (GPO).
-- Active Directory e gerenciamento de acessos.
+- Active Directory.
 - VMware vSphere e Omnissa Horizon.
 - ServiceNow.
 - Troubleshooting de software, navegadores e extensões corporativas.
