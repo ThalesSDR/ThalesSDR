@@ -91,7 +91,7 @@ O projeto possui desenvolvimento Full Stack, integrando funcionalidades de gestÃ
 
 ## ðŸ“« Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/thales-santos-da-rosa-594132275)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-555555?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://br.linkedin.com/in/thales-santos-da-rosa-594132275)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ThalesSDR-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ThalesSDR)
 
