@@ -85,7 +85,7 @@ Projeto acadêmico desenvolvido em equipe para a Dutra Móveis.
 - Trello
 - Git e GitHub
 
-O projeto possui desenvolvimento Full Stack, integrando funcionalidades de gestão logística com recursos de mapas e roteirização. Minha participação envolve o desenvolvimento Full Stack da aplicação, atuando tanto no back-end quanto no front-end, conforme as necessidades do projeto. No back-end, trabalho com funcionalidades, regras de negócio, integração entre componentes e implementação de autenticação e segurança utilizando Spring Security e tokens. No front-end, contribuo com o desenvolvimento e aprimoramento das interfaces e funcionalidades em Angular. Também participo da integração e evolução geral do sistema em colaboração com os demais integrantes da equipe.
+O projeto possui desenvolvimento Full Stack, integrando funcionalidades de gestão logística com recursos de mapas e roteirização. Minha participação envolve o desenvolvimento Full Stack da aplicação, atuando tanto no back-end quanto no front-end, conforme as necessidades do projeto. No back-end, trabalho com funcionalidades, regras de negócio, integração entre componentes e implementação de autenticação e segurança utilizando Spring Security e JWT. No front-end, contribuo com o desenvolvimento e aprimoramento das interfaces e funcionalidades em Angular. Também participo da integração e evolução geral do sistema em colaboração com os demais integrantes da equipe.
 
 *Novos projetos pessoais e experimentais serão adicionados conforme forem desenvolvidos.*
 
