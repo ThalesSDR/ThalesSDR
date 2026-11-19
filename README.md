@@ -35,7 +35,7 @@ Paralelamente, desenvolvo minhas habilidades em programação e desenvolvimento 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://shields.io)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Infraestrutura e suporte de TI
 
@@ -53,9 +53,9 @@ Paralelamente, desenvolvo minhas habilidades em programação e desenvolvimento 
 - Cibersegurança e fundamentos de segurança da informação.
 - Segurança em ambientes Cloud.
 - Linux e redes de computadores.
-- Docker e infraestrutura.
 - Burp Suite e segurança de aplicações web.
-- Spring Boot e Angular.
+- Aprofundamento em Docker e infraestrutura.
+- Aprofundamento em Spring Boot e Angular.
 
 ## 🚀 Projetos
 
@@ -85,7 +85,7 @@ Projeto acadêmico desenvolvido em equipe para a Dutra Móveis.
 - Trello
 - Git e GitHub
 
-O projeto possui desenvolvimento Full Stack, integrando funcionalidades de gestão logística com recursos de mapas e roteirização, além do trabalho colaborativo com os demais integrantes da equipe.
+O projeto possui desenvolvimento Full Stack, integrando funcionalidades de gestão logística com recursos de mapas e roteirização. Minha participação envolve o desenvolvimento Full Stack da aplicação, atuando tanto no back-end quanto no front-end, conforme as necessidades do projeto. No back-end, trabalho com funcionalidades, regras de negócio, integração entre componentes e implementação de autenticação e segurança utilizando Spring Security e tokens. No front-end, contribuo com o desenvolvimento e aprimoramento das interfaces e funcionalidades em Angular. Também participo da integração e evolução geral do sistema em colaboração com os demais integrantes da equipe.
 
 *Novos projetos pessoais e experimentais serão adicionados conforme forem desenvolvidos.*
 
