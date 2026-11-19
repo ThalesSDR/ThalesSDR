@@ -8,23 +8,15 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia de Software e atualmente atuo como **Estagiário de TI na Itaipu Binacional**, na divisão de Microinformática no Suporte N3 (SITM.AA).
+Atualmente atuo na área de Microinformática no Suporte N3 da Itaipu Binacional, adquirindo experiência em suporte técnico, infraestrutura, ambientes virtualizados, administração de software e análise técnica de equipamentos.
 
-Minha experiência envolve suporte técnico especializado, troubleshooting de aplicações e ambientes corporativos, infraestrutura de TI, gerenciamento de políticas de grupo (GPO), ambientes virtualizados, homologação de softwares e análise técnica de equipamentos.
+Meu principal objetivo é construir uma carreira em Cibersegurança, especialmente em Segurança Ofensiva (Pentest), mantendo também interesse em Blue Team, SOC e Cloud Security.
 
-Também participo de atividades de documentação técnica, incluindo revisão de Especificações Técnicas (ETs) e análise de Pareceres Técnicos (PTs), além de iniciativas relacionadas à organização e gestão do conhecimento técnico com apoio de Inteligência Artificial.
-
-Meu principal interesse profissional é a **Cibersegurança**, especialmente Segurança Ofensiva (Pentest). Também tenho interesse em Segurança Defensiva (Blue Team/SOC) e segurança em ambientes Cloud.
-
-Paralelamente, venho desenvolvendo minhas habilidades em programação, trabalhando com Java, Spring Boot, Angular, Python e bancos de dados relacionais.
-
-Antes de ingressar na área de tecnologia, tive experiência profissional em logística, onde desenvolvi habilidades de organização, comunicação, atenção aos detalhes e resolução de problemas. Acredito que essa trajetória contribui para minha capacidade de trabalhar em equipe e lidar com diferentes desafios profissionais.
-
-Sou curioso, autodidata e analítico. Gosto de entender como as coisas funcionam, investigar problemas e transformar novos conhecimentos em soluções práticas.
+Paralelamente, desenvolvo minhas habilidades em programação e desenvolvimento de software. Sou curioso, autodidata e gosto de investigar problemas, aprender novas tecnologias e transformar conhecimentos em soluções práticas.
 
 ## 🛠️ Tecnologias e ferramentas
 
-### Linguagens de programação e banco de dados
+### Linguagens de programação
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -32,23 +24,25 @@ Sou curioso, autodidata e analítico. Gosto de entender como as coisas funcionam
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Desenvolvimento de software
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://shields.io)
 
 ### Infraestrutura e suporte de TI
 
 - Windows e Gerenciamento de Políticas de Grupo (GPO).
 - Active Directory e gerenciamento de acessos.
-- VMware Horizon / Omnissa Horizon e vSphere.
-- Infraestrutura de desktops virtuais (VDI).
-- ServiceNow e homologação de aplicações.
+- VMware vSphere e Omnissa Horizon.
+- ServiceNow.
 - Troubleshooting de software, navegadores e extensões corporativas.
 - Análise de hardware e validação técnica de equipamentos.
 - Elaboração e revisão de documentação técnica (ETs e PTs).
@@ -57,19 +51,17 @@ Sou curioso, autodidata e analítico. Gosto de entender como as coisas funcionam
 ### Em aprendizado e aprofundamento
 
 - Cibersegurança e fundamentos de segurança da informação.
-- Segurança Ofensiva (Pentest).
-- Segurança Defensiva (Blue Team e SOC).
 - Segurança em ambientes Cloud.
 - Linux e redes de computadores.
 - Docker e infraestrutura.
 - Burp Suite e segurança de aplicações web.
-- Aprofundamento em Spring Boot e Angular.
+- Spring Boot e Angular.
 
 ## 🚀 Projetos
 
-### LogiDutra — Sistema de Gestão Logística
+### LogiDutra — Sistema de Gestão Logística 🚚
 
-Projeto acadêmico desenvolvido em equipe para a Dutra Móveis, com o objetivo de desenvolver uma solução para auxiliar nos processos de gestão logística.
+Projeto acadêmico desenvolvido em equipe para a Dutra Móveis.
 
 **Tecnologias utilizadas:**
 
@@ -93,21 +85,9 @@ Projeto acadêmico desenvolvido em equipe para a Dutra Móveis, com o objetivo d
 - Trello
 - Git e GitHub
 
-O projeto possui desenvolvimento Full Stack, integrando funcionalidades de gestão logística com recursos de mapas e roteirização. Minha participação envolve funcionalidades relacionadas aos romaneios e seus diálogos, além do trabalho colaborativo com os demais integrantes da equipe.
-
-As integrações com OpenRouteService e VROOM fazem parte do desenvolvimento planejado para o módulo de roteirização.
+O projeto possui desenvolvimento Full Stack, integrando funcionalidades de gestão logística com recursos de mapas e roteirização, além do trabalho colaborativo com os demais integrantes da equipe.
 
 *Novos projetos pessoais e experimentais serão adicionados conforme forem desenvolvidos.*
-
-## 🎯 Interesses e objetivos profissionais
-
-Meu principal objetivo é construir uma carreira na área de **Cibersegurança**, desenvolvendo uma base sólida em redes, sistemas operacionais, infraestrutura e segurança da informação.
-
-Tenho especial interesse em Segurança Ofensiva (Pentest), mas também busco conhecer e desenvolver habilidades em Blue Team, operações SOC e segurança em Cloud.
-
-O desenvolvimento de software também faz parte da minha trajetória, pois acredito que compreender como os sistemas são construídos é fundamental para identificar problemas, desenvolver soluções e entender melhor os desafios de segurança.
-
-Busco evoluir continuamente por meio de estudos, projetos práticos, laboratórios e experiências profissionais.
 
 ## 📫 Contato
 
