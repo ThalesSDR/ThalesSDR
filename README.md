@@ -23,7 +23,7 @@ Paralelamente, desenvolvo minhas habilidades em programação e desenvolvimento 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPHBhdGggZD0iTTcgMTN2MzhjMCA2IDExIDExIDI1IDExczI1LTUgMjUtMTFWMTMiIGZpbGw9IiM0RjhFREIiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxlbGxpcHNlIGN4PSIzMiIgY3k9IjEzIiByeD0iMjUiIHJ5PSIxMCIgZmlsbD0iI0I3RDBFRiIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjMuNSIvPjxwYXRoIGQ9Ik03IDI3YzAgNiAxMSAxMSAyNSAxMXMyNS01IDI1LTExTTcgNDFjMCA2IDExIDExIDI1IDExczI1LTUgMjUtMTEiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIzLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjwvc3ZnPg%3D%3D)
 
 ### Desenvolvimento de software
 
