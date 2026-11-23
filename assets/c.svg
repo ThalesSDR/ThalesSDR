@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="24" viewBox="0 0 40 24" role="img" aria-label="C">
-  <title>C</title>
-  <rect width="40" height="24" fill="#00599C"/>
-  <g transform="translate(3.5 3.5)">
-      <path d="M8.5 0.7 15.7 4.8v8.2l-7.2 4.1-7.2-4.1V4.8Z" fill="#5865B2"/>
-      <path d="M11.8 5.3a4.6 4.6 0 1 0 0 7.2" fill="none" stroke="#fff" stroke-width="2.1" stroke-linecap="round"/>
-    </g>
-  <text x="26" y="16.2" fill="#FFFFFF" font-family="Verdana,DejaVu Sans,Arial,sans-serif" font-size="10.5" font-weight="600">C</text>
-</svg>

@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="72" height="24" viewBox="0 0 72 24" role="img" aria-label="Angular">
-  <title>Angular</title>
-  <rect width="72" height="24" fill="#DD0031"/>
-  <g transform="translate(3.4 3)" fill="none" stroke="#fff" stroke-width="1.6" stroke-linejoin="round">
-      <path d="M8.8 1 16 3.6 14.9 14.2 8.8 18 2.7 14.2 1.6 3.6Z" fill="#C3002F" stroke="#fff"/>
-      <path d="M5.2 12.7 8.8 5l3.6 7.7M6.7 9.7h4.2"/>
-    </g>
-  <text x="26" y="16.2" fill="#FFFFFF" font-family="Verdana,DejaVu Sans,Arial,sans-serif" font-size="10.5" font-weight="600">Angular</text>
-</svg>
